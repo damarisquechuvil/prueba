@@ -1,0 +1,16 @@
+body {
+    width: 950px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(39, 68, 174);
+    color: #ffffff;
+    font-family: cursive;
+}
+
+
+.nav-links {
+    list-style-type: none;
+}
